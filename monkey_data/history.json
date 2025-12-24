@@ -639,6 +639,22 @@
         "special": "none"
       },
       "story": "\ud83c\udf89 Your monkey was born!"
+    },
+    {
+      "timestamp": "2025-12-24T19:36:11.933154",
+      "dna_hash": "f7db622c6a062601",
+      "generation": 2,
+      "mutation_count": 1,
+      "rarity_score": 15.0,
+      "traits": {
+        "body_color": "golden",
+        "face_expression": "sleepy",
+        "accessory": "monocle",
+        "pattern": "stars",
+        "background": "sunset",
+        "special": "none"
+      },
+      "story": "Your monkey evolved! Changes: body_color: bronze \u2192 golden"
     }
   ]
 }
