@@ -943,6 +943,22 @@
         "special": "none"
       },
       "story": "Your monkey rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-01-11T02:33:17.603204",
+      "dna_hash": "edda7454284309fb",
+      "generation": 2,
+      "mutation_count": 8,
+      "rarity_score": 21.666666666666668,
+      "traits": {
+        "body_color": "blue",
+        "face_expression": "mischievous",
+        "accessory": "crown",
+        "pattern": "stars",
+        "background": "white",
+        "special": "none"
+      },
+      "story": "Your monkey evolved! Changes: accessory: wizard_hat \u2192 crown"
     }
   ]
 }
