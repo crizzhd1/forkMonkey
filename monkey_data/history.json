@@ -991,6 +991,22 @@
         "special": "none"
       },
       "story": "Your monkey rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-01-14T02:27:23.827870",
+      "dna_hash": "f65f612a4063cdc6",
+      "generation": 2,
+      "mutation_count": 13,
+      "rarity_score": 21.666666666666668,
+      "traits": {
+        "body_color": "blue",
+        "face_expression": "excited",
+        "accessory": "crown",
+        "pattern": "diamonds",
+        "background": "white",
+        "special": "none"
+      },
+      "story": "Your monkey evolved! Changes: face_expression: mischievous \u2192 excited"
     }
   ]
 }
