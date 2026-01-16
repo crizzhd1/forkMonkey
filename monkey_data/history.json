@@ -1023,6 +1023,22 @@
         "special": "none"
       },
       "story": "Your monkey evolved! Changes: body_color: blue \u2192 holographic"
+    },
+    {
+      "timestamp": "2026-01-16T02:23:34.421400",
+      "dna_hash": "eda09afadca2ebed",
+      "generation": 2,
+      "mutation_count": 15,
+      "rarity_score": 30.0,
+      "traits": {
+        "body_color": "crystal",
+        "face_expression": "excited",
+        "accessory": "crown",
+        "pattern": "diamonds",
+        "background": "white",
+        "special": "none"
+      },
+      "story": "Your monkey evolved! Changes: body_color: holographic \u2192 crystal"
     }
   ]
 }
