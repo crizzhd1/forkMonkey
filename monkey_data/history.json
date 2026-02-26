@@ -1679,6 +1679,22 @@
         "special": "none"
       },
       "story": "Your monkey evolved! Changes: face_expression: mischievous \u2192 curious"
+    },
+    {
+      "timestamp": "2026-02-26T02:47:12.914464",
+      "dna_hash": "5074f6eebbbab109",
+      "generation": 2,
+      "mutation_count": 31,
+      "rarity_score": 28.333333333333332,
+      "traits": {
+        "body_color": "crystal",
+        "face_expression": "curious",
+        "accessory": "crown",
+        "pattern": "hearts",
+        "background": "green_grass",
+        "special": "none"
+      },
+      "story": "Your monkey evolved! Changes: background: sunset \u2192 green_grass"
     }
   ]
 }
