@@ -1871,6 +1871,22 @@
         "special": "shadow"
       },
       "story": "Your monkey evolved! Changes: background: blue_sky \u2192 sunset"
+    },
+    {
+      "timestamp": "2026-03-10T02:43:16.758910",
+      "dna_hash": "1f35e5e77de5f449",
+      "generation": 2,
+      "mutation_count": 40,
+      "rarity_score": 21.666666666666668,
+      "traits": {
+        "body_color": "blue",
+        "face_expression": "excited",
+        "accessory": "sunglasses",
+        "pattern": "stripes",
+        "background": "sunset",
+        "special": "glow"
+      },
+      "story": "Your monkey evolved! Changes: accessory: crown \u2192 sunglasses, pattern: hearts \u2192 stripes, special: shadow \u2192 glow"
     }
   ]
 }
