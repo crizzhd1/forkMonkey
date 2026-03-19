@@ -2015,6 +2015,22 @@
         "special": "glow"
       },
       "story": "Your monkey evolved! Changes: body_color: blue \u2192 purple"
+    },
+    {
+      "timestamp": "2026-03-19T02:56:16.190707",
+      "dna_hash": "b23fb726006056ae",
+      "generation": 2,
+      "mutation_count": 44,
+      "rarity_score": 21.666666666666668,
+      "traits": {
+        "body_color": "purple",
+        "face_expression": "excited",
+        "accessory": "sunglasses",
+        "pattern": "stripes",
+        "background": "sunset",
+        "special": "sparkles"
+      },
+      "story": "Your monkey evolved! Changes: special: glow \u2192 sparkles"
     }
   ]
 }
