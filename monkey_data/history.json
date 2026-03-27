@@ -2143,6 +2143,22 @@
         "special": "sparkles"
       },
       "story": "Your monkey evolved! Changes: face_expression: excited \u2192 sleepy"
+    },
+    {
+      "timestamp": "2026-03-27T03:22:00.331192",
+      "dna_hash": "7ff6ca18dbd3e6d1",
+      "generation": 2,
+      "mutation_count": 47,
+      "rarity_score": 20.0,
+      "traits": {
+        "body_color": "purple",
+        "face_expression": "sleepy",
+        "accessory": "sunglasses",
+        "pattern": "stripes",
+        "background": "sunset",
+        "special": "sparkles"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }
