@@ -2351,6 +2351,22 @@
         "special": "aura"
       },
       "story": "Your monkey evolved! Changes: pattern: gradient \u2192 spots, background: blue_sky \u2192 sunset"
+    },
+    {
+      "timestamp": "2026-04-09T03:18:53.281792",
+      "dna_hash": "3935cfc712019171",
+      "generation": 2,
+      "mutation_count": 61,
+      "rarity_score": 33.33333333333333,
+      "traits": {
+        "body_color": "galaxy",
+        "face_expression": "neutral",
+        "accessory": "sunglasses",
+        "pattern": "spots",
+        "background": "sunset",
+        "special": "aura"
+      },
+      "story": "Your monkey evolved! Changes: body_color: purple \u2192 galaxy"
     }
   ]
 }
