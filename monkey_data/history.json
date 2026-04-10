@@ -2367,6 +2367,22 @@
         "special": "aura"
       },
       "story": "Your monkey evolved! Changes: body_color: purple \u2192 galaxy"
+    },
+    {
+      "timestamp": "2026-04-10T03:32:42.222707",
+      "dna_hash": "3935cfc712019171",
+      "generation": 2,
+      "mutation_count": 61,
+      "rarity_score": 33.33333333333333,
+      "traits": {
+        "body_color": "galaxy",
+        "face_expression": "neutral",
+        "accessory": "sunglasses",
+        "pattern": "spots",
+        "background": "sunset",
+        "special": "aura"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }
