@@ -2479,6 +2479,22 @@
         "special": "aura"
       },
       "story": "Your monkey rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-04-17T03:34:22.932433",
+      "dna_hash": "ceae6ce8beb76fe8",
+      "generation": 2,
+      "mutation_count": 64,
+      "rarity_score": 33.33333333333333,
+      "traits": {
+        "body_color": "rainbow",
+        "face_expression": "neutral",
+        "accessory": "sunglasses",
+        "pattern": "spots",
+        "background": "green_grass",
+        "special": "aura"
+      },
+      "story": "Your monkey evolved! Changes: body_color: galaxy \u2192 rainbow"
     }
   ]
 }
