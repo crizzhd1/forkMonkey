@@ -2623,6 +2623,22 @@
         "special": "shadow"
       },
       "story": "Your monkey evolved! Changes: pattern: spots \u2192 hearts"
+    },
+    {
+      "timestamp": "2026-04-26T03:47:37.157449",
+      "dna_hash": "2e4e84ca96d0a0fc",
+      "generation": 2,
+      "mutation_count": 70,
+      "rarity_score": 35.0,
+      "traits": {
+        "body_color": "rainbow",
+        "face_expression": "neutral",
+        "accessory": "sunglasses",
+        "pattern": "hearts",
+        "background": "white",
+        "special": "particles"
+      },
+      "story": "Your monkey evolved! Changes: background: green_grass \u2192 white, special: shadow \u2192 particles"
     }
   ]
 }
