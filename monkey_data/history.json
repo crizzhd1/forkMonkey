@@ -2639,6 +2639,22 @@
         "special": "particles"
       },
       "story": "Your monkey evolved! Changes: background: green_grass \u2192 white, special: shadow \u2192 particles"
+    },
+    {
+      "timestamp": "2026-04-27T03:51:39.748518",
+      "dna_hash": "1d52114712e6c000",
+      "generation": 2,
+      "mutation_count": 71,
+      "rarity_score": 35.0,
+      "traits": {
+        "body_color": "galaxy",
+        "face_expression": "neutral",
+        "accessory": "sunglasses",
+        "pattern": "hearts",
+        "background": "white",
+        "special": "particles"
+      },
+      "story": "Your monkey evolved! Changes: body_color: rainbow \u2192 galaxy"
     }
   ]
 }
