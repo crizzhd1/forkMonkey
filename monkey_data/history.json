@@ -2927,6 +2927,22 @@
         "special": "sparkles"
       },
       "story": "Your monkey evolved! Changes: special: glow \u2192 sparkles"
+    },
+    {
+      "timestamp": "2026-05-15T04:09:54.496730",
+      "dna_hash": "fcbc30fb528e485c",
+      "generation": 2,
+      "mutation_count": 83,
+      "rarity_score": 30.0,
+      "traits": {
+        "body_color": "rainbow",
+        "face_expression": "neutral",
+        "accessory": "headphones",
+        "pattern": "hearts",
+        "background": "sunset",
+        "special": "sparkles"
+      },
+      "story": "Your monkey evolved! Changes: accessory: sunglasses \u2192 headphones, background: blue_sky \u2192 sunset"
     }
   ]
 }
