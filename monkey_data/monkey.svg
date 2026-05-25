@@ -49,7 +49,10 @@
     </linearGradient>
     <clipPath id="head-clip"><ellipse cx="200" cy="200" rx="110" ry="115"/></clipPath>
 </defs>
-<rect width="400" height="400" fill="url(#sunset-gradient)"/>
+<rect width="400" height="400" fill="#F0E68C"/>
+<path d="M0 350 Q100 338 200 350 T400 350" fill="#4169E1" opacity="0.25"/>
+<path d="M0 365 Q100 353 200 365 T400 365" fill="#4169E1" opacity="0.19"/>
+<path d="M0 380 Q100 368 200 380 T400 380" fill="#4169E1" opacity="0.13"/>
 
 <ellipse cx="115" cy="140" rx="45" ry="50" fill="url(#galaxy-body)" filter="url(#shadow)"/>
 <ellipse cx="115" cy="140" rx="30" ry="35" fill="#FFB6C1"/>
