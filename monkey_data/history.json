@@ -3135,6 +3135,22 @@
         "special": "sparkles"
       },
       "story": "Your monkey evolved! Changes: body_color: galaxy \u2192 rainbow"
+    },
+    {
+      "timestamp": "2026-05-28T04:20:40.796906",
+      "dna_hash": "7062a29bbc3ea679",
+      "generation": 2,
+      "mutation_count": 92,
+      "rarity_score": 38.333333333333336,
+      "traits": {
+        "body_color": "rainbow",
+        "face_expression": "mischievous",
+        "accessory": "headphones",
+        "pattern": "fractals",
+        "background": "beach",
+        "special": "sparkles"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }
