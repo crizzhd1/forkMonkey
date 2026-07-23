@@ -4031,6 +4031,22 @@
         "special": "none"
       },
       "story": "Your monkey evolved! Changes: face_expression: wise \u2192 excited, pattern: flames \u2192 nebula"
+    },
+    {
+      "timestamp": "2026-07-23T03:35:01.742540",
+      "dna_hash": "a88ba5ba6bea3ae6",
+      "generation": 2,
+      "mutation_count": 117,
+      "rarity_score": 35.0,
+      "traits": {
+        "body_color": "holographic",
+        "face_expression": "excited",
+        "accessory": "bow",
+        "pattern": "nebula",
+        "background": "forest",
+        "special": "none"
+      },
+      "story": "Your monkey evolved! Changes: background: mountains \u2192 forest"
     }
   ]
 }
