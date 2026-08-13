@@ -4367,6 +4367,22 @@
         "special": "none"
       },
       "story": "Your monkey evolved! Changes: body_color: galaxy \u2192 crystal, pattern: lightning \u2192 fractals"
+    },
+    {
+      "timestamp": "2026-08-13T02:34:22.267586",
+      "dna_hash": "5d2bcdcaefad6a70",
+      "generation": 2,
+      "mutation_count": 131,
+      "rarity_score": 35.0,
+      "traits": {
+        "body_color": "crystal",
+        "face_expression": "excited",
+        "accessory": "bandana",
+        "pattern": "fractals",
+        "background": "city",
+        "special": "none"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }
