@@ -4527,6 +4527,22 @@
         "special": "none"
       },
       "story": "Your monkey rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-08-23T01:51:33.219891",
+      "dna_hash": "a3a89b4f580f6a5e",
+      "generation": 2,
+      "mutation_count": 132,
+      "rarity_score": 30.0,
+      "traits": {
+        "body_color": "crystal",
+        "face_expression": "excited",
+        "accessory": "bandana",
+        "pattern": "stars",
+        "background": "city",
+        "special": "none"
+      },
+      "story": "Your monkey evolved! Changes: pattern: fractals \u2192 stars"
     }
   ]
 }
