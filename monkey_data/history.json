@@ -4943,6 +4943,22 @@
         "special": "none"
       },
       "story": "Your monkey evolved! Changes: accessory: simple_hat \u2192 crown"
+    },
+    {
+      "timestamp": "2026-09-18T04:25:41.960479",
+      "dna_hash": "bd4b44908eb73cde",
+      "generation": 2,
+      "mutation_count": 150,
+      "rarity_score": 28.333333333333332,
+      "traits": {
+        "body_color": "holographic",
+        "face_expression": "happy",
+        "accessory": "crown",
+        "pattern": "spots",
+        "background": "mountains",
+        "special": "none"
+      },
+      "story": "Your monkey evolved! Changes: body_color: crystal \u2192 holographic"
     }
   ]
 }
