@@ -5007,6 +5007,22 @@
         "special": "none"
       },
       "story": "Your monkey evolved! Changes: accessory: crown \u2192 sunglasses"
+    },
+    {
+      "timestamp": "2026-09-22T04:35:50.728598",
+      "dna_hash": "7804f7e99005228f",
+      "generation": 2,
+      "mutation_count": 154,
+      "rarity_score": 28.333333333333332,
+      "traits": {
+        "body_color": "galaxy",
+        "face_expression": "happy",
+        "accessory": "monocle",
+        "pattern": "spots",
+        "background": "mountains",
+        "special": "none"
+      },
+      "story": "Your monkey evolved! Changes: body_color: holographic \u2192 galaxy, accessory: sunglasses \u2192 monocle"
     }
   ]
 }
