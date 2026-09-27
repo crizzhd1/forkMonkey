@@ -50,30 +50,30 @@
     <clipPath id="head-clip"><ellipse cx="200" cy="200" rx="110" ry="115"/></clipPath>
 </defs>
 <rect width="400" height="400" fill="#006994"/>
-<circle cx="236" cy="84" r="4" fill="none" stroke="white" opacity="0.25"/>
-<circle cx="72" cy="168" r="5" fill="none" stroke="white" opacity="0.25"/>
-<circle cx="308" cy="252" r="6" fill="none" stroke="white" opacity="0.25"/>
-<circle cx="144" cy="336" r="7" fill="none" stroke="white" opacity="0.25"/>
-<circle cx="380" cy="20" r="8" fill="none" stroke="white" opacity="0.25"/>
-<circle cx="216" cy="104" r="9" fill="none" stroke="white" opacity="0.25"/>
-<circle cx="52" cy="188" r="10" fill="none" stroke="white" opacity="0.25"/>
-<circle cx="288" cy="272" r="11" fill="none" stroke="white" opacity="0.25"/>
-<circle cx="124" cy="356" r="4" fill="none" stroke="white" opacity="0.25"/>
-<circle cx="360" cy="40" r="5" fill="none" stroke="white" opacity="0.25"/>
-<circle cx="196" cy="124" r="6" fill="none" stroke="white" opacity="0.25"/>
-<circle cx="32" cy="208" r="7" fill="none" stroke="white" opacity="0.25"/>
-<circle cx="268" cy="292" r="8" fill="none" stroke="white" opacity="0.25"/>
-<circle cx="104" cy="376" r="9" fill="none" stroke="white" opacity="0.25"/>
-<circle cx="340" cy="60" r="10" fill="none" stroke="white" opacity="0.25"/>
+<circle cx="256" cy="64" r="4" fill="none" stroke="white" opacity="0.25"/>
+<circle cx="112" cy="128" r="5" fill="none" stroke="white" opacity="0.25"/>
+<circle cx="368" cy="192" r="6" fill="none" stroke="white" opacity="0.25"/>
+<circle cx="224" cy="256" r="7" fill="none" stroke="white" opacity="0.25"/>
+<circle cx="80" cy="320" r="8" fill="none" stroke="white" opacity="0.25"/>
+<circle cx="336" cy="384" r="9" fill="none" stroke="white" opacity="0.25"/>
+<circle cx="192" cy="48" r="10" fill="none" stroke="white" opacity="0.25"/>
+<circle cx="48" cy="112" r="11" fill="none" stroke="white" opacity="0.25"/>
+<circle cx="304" cy="176" r="4" fill="none" stroke="white" opacity="0.25"/>
+<circle cx="160" cy="240" r="5" fill="none" stroke="white" opacity="0.25"/>
+<circle cx="16" cy="304" r="6" fill="none" stroke="white" opacity="0.25"/>
+<circle cx="272" cy="368" r="7" fill="none" stroke="white" opacity="0.25"/>
+<circle cx="128" cy="32" r="8" fill="none" stroke="white" opacity="0.25"/>
+<circle cx="384" cy="96" r="9" fill="none" stroke="white" opacity="0.25"/>
+<circle cx="240" cy="160" r="10" fill="none" stroke="white" opacity="0.25"/>
 
-<ellipse cx="115" cy="140" rx="45" ry="50" fill="url(#rainbow-body)" filter="url(#shadow)"/>
+<ellipse cx="115" cy="140" rx="45" ry="50" fill="#E0FFFF" filter="url(#shadow)"/>
 <ellipse cx="115" cy="140" rx="30" ry="35" fill="#FFB6C1"/>
 <ellipse cx="115" cy="145" rx="18" ry="22" fill="#FF9999"/>
-<ellipse cx="285" cy="140" rx="45" ry="50" fill="url(#rainbow-body)" filter="url(#shadow)"/>
+<ellipse cx="285" cy="140" rx="45" ry="50" fill="#E0FFFF" filter="url(#shadow)"/>
 <ellipse cx="285" cy="140" rx="30" ry="35" fill="#FFB6C1"/>
 <ellipse cx="285" cy="145" rx="18" ry="22" fill="#FF9999"/>
-<ellipse cx="200" cy="200" rx="110" ry="115" fill="url(#rainbow-body)" filter="url(#shadow)"/>
-<ellipse cx="180" cy="140" rx="50" ry="30" fill="#FFD700" opacity="0.3"/>
+<ellipse cx="200" cy="200" rx="110" ry="115" fill="#E0FFFF" filter="url(#shadow)"/>
+<ellipse cx="180" cy="140" rx="50" ry="30" fill="#FFFFFF" opacity="0.3"/>
 <g clip-path="url(#head-clip)"><ellipse cx="200" cy="200" rx="110" ry="115" fill="url(#sky-gradient)" opacity="0.25"/></g>
 <ellipse cx="200" cy="235" rx="70" ry="60" fill="#FFDAB9"/>
 <ellipse cx="200" cy="250" rx="55" ry="40" fill="#DEB887" opacity="0.3"/>
