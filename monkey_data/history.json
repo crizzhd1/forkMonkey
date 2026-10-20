@@ -5455,6 +5455,22 @@
         "special": "none"
       },
       "story": "Your monkey evolved! Changes: face_expression: sleepy \u2192 happy, background: underwater \u2192 volcano"
+    },
+    {
+      "timestamp": "2026-10-20T04:33:50.460906",
+      "dna_hash": "bf0cd5b83ef7d397",
+      "generation": 2,
+      "mutation_count": 170,
+      "rarity_score": 33.33333333333333,
+      "traits": {
+        "body_color": "crystal",
+        "face_expression": "happy",
+        "accessory": "monocle",
+        "pattern": "gradient",
+        "background": "volcano",
+        "special": "none"
+      },
+      "story": "Your monkey evolved! Changes: body_color: galaxy \u2192 crystal"
     }
   ]
 }
