@@ -5535,6 +5535,22 @@
         "special": "none"
       },
       "story": "Your monkey evolved! Changes: pattern: gradient \u2192 stripes"
+    },
+    {
+      "timestamp": "2026-10-25T04:23:56.819826",
+      "dna_hash": "3fcfd3458e63829f",
+      "generation": 2,
+      "mutation_count": 173,
+      "rarity_score": 38.333333333333336,
+      "traits": {
+        "body_color": "crystal",
+        "face_expression": "happy",
+        "accessory": "wizard_hat",
+        "pattern": "stripes",
+        "background": "underwater",
+        "special": "none"
+      },
+      "story": "Your monkey evolved! Changes: accessory: monocle \u2192 wizard_hat"
     }
   ]
 }
